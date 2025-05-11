@@ -1,7 +1,7 @@
 # 💫 About Me:
 I am a .NET Developer with experience in C#, Python, and C++. I leverage these languages to develop efficient and robust software solutions. Currently, I am working on various projects within the .NET framework, constantly improving my skills and knowledge in software development.
 
-I study at Step Academy, where I deepen my expertise in programming and software development.
+🎓 Education: Studying at STEP IT Academy
 
 ## 🌐 Socials:
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)]([https://github.com/HasanAvshar](https://github.com/HasanAvshar?page=2&tab=repositories))

@@ -15,9 +15,6 @@ I am currently working on my game project<br>I want to learn C++ soon<br>I know 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=HasanAvshar&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=HasanAvshar&icon=2&color=1)](https://visitcount.itsvg.in)
 

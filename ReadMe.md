@@ -1,7 +1,7 @@
 # 💫 About Me:
-I am a passionate Backend Developer with a strong foundation in .NET technologies. I am currently working on various backend systems and strive to continuously improve my skills to build efficient, scalable, and robust applications. I also have experience with Python and am excited to expand my expertise by learning C++ to broaden my programming capabilities.
+I am a .NET Developer with experience in C#, Python, and C++. I leverage these languages to develop efficient and robust software solutions. Currently, I am working on various projects within the .NET framework, constantly improving my skills and knowledge in software development.
 
-I study at Step Academy, where I am further honing my technical skills and knowledge to become an expert in backend development and software engineering.
+I am studying at Step Academy, where I am deepening my expertise in programming and software development.
 
 ## 🌐 Socials:
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)]([https://github.com/HasanAvshar](https://github.com/HasanAvshar?page=2&tab=repositories))
